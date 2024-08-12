@@ -1,4 +1,4 @@
-# lxymahatma's Personal Blog
+# AkiHitori's Personal Blog
 
 ## Introduction
 
